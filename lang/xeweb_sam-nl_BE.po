@@ -1,0 +1,103 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Super Access Manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-28 22:15+0000\n"
+"PO-Revision-Date: 2018-07-28 22:20+0000\n"
+"Last-Translator: thexerox <tim@xeweb.be>\n"
+"Language-Team: Nederlands (België)\n"
+"Language: nl_BE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: config/sc_settings.php:38
+msgid "Access Management"
+msgstr "Toegangsbeheer"
+
+#: config/sc_settings.php:45
+msgid "Administrators can always see all pages"
+msgstr "Administrators kunnen steeds alle pagina's bekijken"
+
+#: config/sc_settings.php:106
+msgid "Allow acces management for the following post types"
+msgstr "Gebruik toegangsbeheer voor de volgende post types"
+
+#: config/sc_settings.php:76
+msgid "Amount of personal pages to show with shortcode"
+msgstr "Aantal persoonlijke pagina's te tonen met shortcode"
+
+#: inc/admin/class-accessmanager.php:191
+msgid "Authentication"
+msgstr "Authenticatie"
+
+#: inc/admin/class-accessmanager.php:154
+msgid ""
+"Choose roles or/and users that have access to the post. If empty, post is "
+"accessable for everyone."
+msgstr ""
+"Kies een rol en/of gebruiker die toegang krijgt tot deze post. Wanneer dit "
+"vak leeg is, heeft iedereen toegang tot de post."
+
+#. Description of the plugin
+msgid "Control post access on a role and userbased level."
+msgstr "Beheer post toegang op een rol en user gebaseerde manier."
+
+#. Author URI of the plugin
+msgid "https://www.xeweb.be"
+msgstr "https://www.xeweb.be"
+
+#: inc/admin/class-accessmanager.php:193
+msgid "Only registered Users"
+msgstr "Alleen geregistreerde gebruikers"
+
+#: inc/admin/class-accessmanager.php:192
+msgid "Only Visitors"
+msgstr "Alleen bezoekers"
+
+#: config/sc_settings.php:91
+msgid "Overview post header"
+msgstr "Overzicht post hoofding"
+
+#: inc/admin/class-listhandler.php:28
+msgid "Protected by SuperAccessManager"
+msgstr "Beschermd door SuperAccessManager"
+
+#: config/sc_settings.php:52
+msgid "Redirect to * if user has no access"
+msgstr "Verwijs door naar * als de gebruiker geen toegang heeft"
+
+#: config/sc_settings.php:99
+msgid "Remove empty categories from list"
+msgstr "Verwijder lege categorieën uit lijst"
+
+#: config/sc_settings.php:69
+msgid "Remove unaccessable pages automaticly from menu's"
+msgstr "Verwijder niet toegankelijke posts automatisch uit menu's"
+
+#. Name of the plugin
+msgid "Super Access Manager"
+msgstr "Super Access Manager"
+
+#. Unique ID
+#: inc/admin/class-accessmanager.php:137
+msgid "User Access"
+msgstr "Gebruikerstoegang"
+
+#: config/sc_settings.php:84
+msgid "User has no personal pages message"
+msgstr "\"Gebruiker heeft geen toegang\" bericht"
+
+#. Author of the plugin
+msgid "Xeweb"
+msgstr "Xeweb"
+
+#: inc/admin/class-accessmanager.php:570
+msgid ""
+"You see this page because you are an Administrator, public pages are not "
+"listed."
+msgstr ""
+"Je kan deze pagina zien omdat je een Administrator bent. Publieke pagina's "
+"staan niet in deze lijst."

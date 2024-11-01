@@ -1,0 +1,100 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Super Access Manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-28 22:15+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: config/sc_settings.php:38
+msgid "Access Management"
+msgstr ""
+
+#: config/sc_settings.php:45
+msgid "Administrators can always see all pages"
+msgstr ""
+
+#: config/sc_settings.php:106
+msgid "Allow acces management for the following post types"
+msgstr ""
+
+#: config/sc_settings.php:76
+msgid "Amount of personal pages to show with shortcode"
+msgstr ""
+
+#: inc/admin/class-accessmanager.php:191
+msgid "Authentication"
+msgstr ""
+
+#: inc/admin/class-accessmanager.php:154
+msgid ""
+"Choose roles or/and users that have access to the post. If empty, post is "
+"accessable for everyone."
+msgstr ""
+
+#. Description of the plugin
+msgid "Control post access on a role and userbased level."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.xeweb.be"
+msgstr ""
+
+#: inc/admin/class-accessmanager.php:193
+msgid "Only registered Users"
+msgstr ""
+
+#: inc/admin/class-accessmanager.php:192
+msgid "Only Visitors"
+msgstr ""
+
+#: config/sc_settings.php:91
+msgid "Overview post header"
+msgstr ""
+
+#: inc/admin/class-listhandler.php:28
+msgid "Protected by SuperAccessManager"
+msgstr ""
+
+#: config/sc_settings.php:52
+msgid "Redirect to * if user has no access"
+msgstr ""
+
+#: config/sc_settings.php:99
+msgid "Remove empty categories from list"
+msgstr ""
+
+#: config/sc_settings.php:69
+msgid "Remove unaccessable pages automaticly from menu's"
+msgstr ""
+
+#. Name of the plugin
+msgid "Super Access Manager"
+msgstr ""
+
+#. Unique ID
+#: inc/admin/class-accessmanager.php:137
+msgid "User Access"
+msgstr ""
+
+#: config/sc_settings.php:84
+msgid "User has no personal pages message"
+msgstr ""
+
+#. Author of the plugin
+msgid "Xeweb"
+msgstr ""
+
+#: inc/admin/class-accessmanager.php:570
+msgid ""
+"You see this page because you are an Administrator, public pages are not "
+"listed."
+msgstr ""
